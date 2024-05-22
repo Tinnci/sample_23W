@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+xh21_22.m4a filter=lfs diff=lfs merge=lfs -text
+xh23_24.m4a filter=lfs diff=lfs merge=lfs -text
